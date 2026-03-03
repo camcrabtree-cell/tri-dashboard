@@ -1,0 +1,113 @@
+body{
+  background:#05070c;
+  color:#e8eefc;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  margin:0;
+}
+
+#app{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 18px 16px 40px;
+}
+
+.kpi{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  padding:12px 14px;
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:14px;
+  background: rgba(255,255,255,0.03);
+}
+
+.kpi span{
+  opacity:0.9;
+  font-size:14px;
+}
+
+.item{
+  margin-top:14px;
+  padding:16px;
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:16px;
+  background: rgba(255,255,255,0.03);
+}
+
+.itemHeader{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:14px;
+  margin-bottom:10px;
+}
+
+.badge{
+  display:inline-block;
+  font-size:12px;
+  padding:4px 10px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,0.10);
+  opacity:0.9;
+}
+
+.title{
+  font-size:20px;
+  font-weight:650;
+  margin-top:6px;
+}
+
+.meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:6px;
+  font-size:12px;
+  opacity:0.75;
+}
+
+.section{
+  margin-top:12px;
+  padding-top:10px;
+  border-top:1px solid rgba(255,255,255,0.06);
+}
+
+.sectionTitle{
+  font-size:12px;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  opacity:0.7;
+  margin-bottom:6px;
+}
+
+.line{
+  font-size:14px;
+  line-height:1.45;
+  opacity:0.95;
+}
+
+.targetLine{
+  margin-top:6px;
+  font-size:13px;
+  opacity:0.85;
+}
+
+.restLine{
+  margin-top:6px;
+  font-size:13px;
+  opacity:0.75;
+}
+
+.check{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  font-size:13px;
+  opacity:0.9;
+  user-select:none;
+}
+
+.check input{
+  width:18px;
+  height:18px;
+}

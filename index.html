@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tri Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <h1>Tri Dashboard</h1>
+
+    <div class="controls">
+      <label>FTP
+        <input id="ftp" type="number" step="1">
+      </label>
+
+      <label>5K (minutes)
+        <input id="fivek" type="number" step="0.1">
+      </label>
+
+      <label>CSS (sec/100)
+        <input id="css" type="number" step="1">
+      </label>
+
+      <button id="saveMetrics">Save metrics</button>
+
+      <label>Week
+        <select id="weekSelect"></select>
+      </label>
+
+      <button id="resetChecks">Reset checks</button>
+    </div>
+
+    <div id="summary" class="summary"></div>
+    <div id="list" class="list"></div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
