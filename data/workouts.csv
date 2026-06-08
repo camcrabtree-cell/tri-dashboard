@@ -90,87 +90,87 @@
 13,W13-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,5–10min,FTP,FTP:0.80-0.90,80–90% FTP,Total = 80km; MS = 2 x 10km hilly,80–90% FTP,Total = 80km; MS = 2 x 10km hilly,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70
 13,W13-RUN-INT-07,Run,Interval,50min,,12min + strides,2min between reps,8–10min,RUN_PACE,RUN:5K,5K pace progression,Total = 50mins; MS = 6 x 3mins increasing,5K pace → slightly faster,Total = 50mins; MS = 6 x 3mins increasing each min,5K pace → slightly faster,RUN:AEROBIC,RUN:5K,RUN:AEROBIC
 13,W13-RUN-AER-08,Run,Aerobic,,14km,5min,,5min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi controlled,14km hilly aerobic,8:00–8:45/mi,14km hilly,8:00–8:45/mi controlled,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
-14,W14-SWIM-INT-01,Swim,Interval,,2400m,400m + drills,45s between reps,CSS,MIXED,300 @ CSS; 200 @ CSS-3; 100 hard,"Total = 2,400m; MS = 3 x 300m; 200m; 100m",300 @ CSS; 200 @ CSS -3; 100 hard controlled,"Total = 2,400m; MS = 3 x 300m; 200m; 100m",CSS:+8-+12,300 @ CSS; 200 @ CSS-3; 100 hard,CSS:+8-+12,,
-14,W14-SWIM-AER-02,Swim,Aerobic,,1800m,200m,,CSS,CSS:+8-+12,CSS +8–12 per 100,"1,800m steady",CSS +8–12,"1,800m",CSS +8 to +12 sec per 100,CSS:+8-+12,CSS +8–12 per 100,CSS:+8-+12,
-14,W14-BIKE-INT-04,Bike,Interval,60min,,15min build,1min between reps,FTP,FTP:1.20-1.40,120–140% FTP,Total = 1hr; MS = 12 x 1min full power,120–140% FTP,Total = 1hr; MS = 12 x 1min full power,120–140% FTP,FTP:0.60-0.70,120–140% FTP,FTP:0.60-0.70,
-14,W14-BIKE-AER-05,Bike,Aerobic,,80km,10min,,FTP,FTP:0.65-0.75,65–75% FTP,80km steady aerobic,65–75% FTP,80km,65–75% FTP,FTP:0.60-0.70,65–75% FTP,FTP:0.60-0.70,
-14,W14-RUN-TEMP-07,Run,Tempo,60min,,12min,3–4min between reps,RUN_PACE,RUN:THRESHOLD,Threshold pace,Total = 1hr; MS = 2 x 12mins,Threshold pace,Total = 1hr; MS = 2 x 12mins,Threshold pace,RUN:AEROBIC,Threshold pace,RUN:AEROBIC,
-14,W14-RUN-AER-08,Run,Aerobic,,12km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,12km hilly,8:00–8:45/mi,12km hilly,8:00–8:45/mi,RUN:AEROBIC,8:00–8:45/mi,RUN:AEROBIC,
-15,W15-SWIM-INT-01,Swim,Interval,,2200m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,"Total = 2,200m; MS = 12 x 100m; 6 x 50m",CSS -3 to -5,"Total = 2,200m; MS = 12 x 100m; 6 x 50m",CSS -3 to -5 sec,CSS:+8-+12,CSS -3 to -5,CSS:+8-+12,
-15,W15-SWIM-AER-02,Swim,Aerobic,,2000m,300m,,CSS,CSS:0,CSS steady,4 x 500m,CSS steady,4 x 500m,CSS steady,CSS:+8-+12,CSS steady,CSS:+8-+12,
-15,W15-BIKE-INT-04,Bike,Interval,60min,,15min build,4–5min between reps,FTP,FTP:0.95-1.05,95–105% FTP ramp,Total = 1hr; MS = 5 x 5mins ramp,95–105% FTP,Total = 1hr; MS = 5 x 5mins ramp,95–105% FTP,FTP:0.60-0.70,95–105% FTP ramp,FTP:0.60-0.70,
-15,W15-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,FTP,FTP:0.80-0.90,80–90% FTP,80km; 2 x 10km hilly,80–90% FTP,Total = 80km; MS = 2 x 10km hilly,80–90% FTP,FTP:0.60-0.70,80–90% FTP,FTP:0.60-0.70,
-15,W15-RUN-INT-07,Run,Interval,50min,,12min,2min between reps,RUN_PACE,RUN:5K,5K pace progressive,50mins; 6 x 3mins,5K → faster,Total = 50mins; 6 x 3mins progressive,5K pace → slightly faster,RUN:AEROBIC,5K pace progressive,RUN:AEROBIC,
-15,W15-RUN-AER-08,Run,Aerobic,,16km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,16km hilly,8:00–8:45/mi,16km hilly,8:00–8:45/mi,RUN:AEROBIC,8:00–8:45/mi,RUN:AEROBIC,
-16,W16-SWIM-AER-02,Swim,Aerobic,,1000–1200m,200m,,CSS,CSS:+8-+12,Easy aerobic,1000–1200m steady,CSS +8–12,1000–1200m,CSS +8–12,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12,
-16,W16-BIKE-INT-04,Bike,Interval,45min,,10min build,1min between reps,FTP,FTP:0.90-1.00,Controlled efforts,45min; MS = 6–8 x 1min,Controlled,45min; MS = 6–8 x 1min,Controlled,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70,
-16,W16-BIKE-AER-05,Bike,Aerobic,,40km,10min,,FTP,FTP:0.60-0.70,Recovery aerobic,40km steady,Recovery,40km,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70,
-16,W16-RUN-TEMP-07,Run,Tempo,40min,,10min,4min between reps,RUN_PACE,RUN:THRESHOLD,Controlled threshold,40min; MS = 2 x 6–8min,Controlled,40min; MS = 2 x 6–8min,Controlled,RUN:AEROBIC,RUN:THRESHOLD,RUN:AEROBIC,
-16,W16-RUN-AER-08,Run,Aerobic,,8km,5min,,RUN_PACE,RUN:AEROBIC,Easy,8km steady,Easy,8km,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-17,W17-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,3 x 200; 4 x 150; 6 x 100,CSS -3 to -5,"Total = 2,500m; MS = 3 x 200m; 4 x 150m; 6 x 100m",CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12,
-17,W17-SWIM-AER-02,Swim,Aerobic,,2600m,300m,,CSS,CSS:0,CSS steady aerobic,2 x [300; 2 x 500; 2 x 300],CSS steady,2 x [300; 2 x 500; 2 x 300],CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12,
-17,W17-BIKE-CLMB-04,Bike,Climb Intervals,70min,,15min build,4min between climbs,FTP,FTP:0.90-1.00,Climb strength,4 x 8min steady climb,90–100% FTP,4 x 8min steady climb,90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70,
-17,W17-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,FTP,FTP:0.80-0.90,Sustained effort,3 x 10km undulating,80–90% FTP,3 x 10km undulating,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70,
-17,W17-RUN-HILL-07,Run,Hill Intervals,60min,,12min,between ladder sets,RUN_PACE,RUN:MIXED,Threshold → 5K,3/2/1 ladder x 6,Progressive,3/2/1 ladder x 6,Progressive,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC,
-17,W17-RUN-AER-08,Run,Aerobic,,15km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,15km rolling,8:00–8:45/mi,15km rolling,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-18,W18-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12,
-18,W18-SWIM-AER-02,Swim,Aerobic,,2100m,300m,,CSS,CSS:0,CSS steady,6 x 50; 1500; 6 x 50,CSS steady,6 x 50; 1500; 6 x 50,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12,
-18,W18-BIKE-OU-04,Bike,Over/Under,70min,,15min build,recovery between ladders,FTP,FTP:0.85-1.05,Wave effort,3/2/1 ladder x 6,85–105% FTP,3/2/1 ladder x 6,85–105% FTP,FTP:0.60-0.70,FTP:0.85-1.05,FTP:0.60-0.70,
-18,W18-BIKE-AER-05,Bike,Aerobic Long,,90km,10min,,FTP,FTP:0.65-0.75,Endurance,90km undulating,65–75% FTP,90km undulating,65–75% FTP,FTP:0.60-0.70,FTP:0.65-0.75,FTP:0.60-0.70,
-18,W18-RUN-TEMP-07,Run,Tempo,60min,,12min,between sets,RUN_PACE,RUN:MIXED,Threshold → aerobic,3 x (5 hard / 10 steady),Controlled,3 x (5 hard / 10 steady),Controlled,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC,
-18,W18-RUN-AER-08,Run,Aerobic Hills,,12km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,12km + 3 hard hills,8:00–8:45/mi,12km + hills,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-19,W19-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12,
-19,W19-SWIM-AER-02,Swim,Aerobic,,2000m,300m,,CSS,CSS:0,CSS steady,800; 2 x 400; 4 x 200,CSS steady,800; 2 x 400; 4 x 200,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12,
-19,W19-BIKE-CLMB-04,Bike,Climb Intervals,70min,,15min build,4min between climbs,FTP,FTP:0.90-1.00,Climb strength,4 x 8min steady climb,90–100% FTP,4 x 8min steady climb,90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70,
-19,W19-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,FTP,FTP:0.80-0.90,Sustained,80km; 3 x 12km undulating,80–90% FTP,80km; 3 x 12km undulating,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70,
-19,W19-RUN-HILL-07,Run,Hill Ladder,60min,,12min,between ladders,RUN_PACE,RUN:MIXED,Threshold → 5K,3/2/1 ladder x 6,Progressive,3/2/1 ladder x 6,Progressive,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC,
-19,W19-RUN-AER-08,Run,Aerobic,,18km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,18km rolling,8:00–8:45/mi,18km rolling,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-20,W20-SWIM-AER-02,Swim,Aerobic,,1200–1400m,300m,,CSS,CSS:+8-+12,Easy aerobic,1200–1400m steady,CSS +8–12,1200–1400m,CSS +8–12,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12,
-20,W20-BIKE-OU-04,Bike,Over/Under,45–50min,,12min build,6min recovery,FTP,FTP:0.85-0.95,Controlled waves,45–50min; reduced ladders,Controlled,Reduced ladder work,Controlled,FTP:0.60-0.70,FTP:0.85-0.95,FTP:0.60-0.70,
-20,W20-BIKE-AER-05,Bike,Aerobic,,45–55km,10min,,FTP,FTP:0.60-0.70,Recovery,45–55km steady,Recovery,45–55km,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70,
-20,W20-RUN-TEMP-07,Run,Tempo,40–45min,,10min,,RUN_PACE,RUN:MIXED,Controlled threshold,2 x (5 hard / 6–8 steady),Controlled,Reduced,Controlled,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC,
-20,W20-RUN-AER-08,Run,Aerobic,,7–8km,5min,,RUN_PACE,RUN:AEROBIC,Easy,7–8km steady,Easy,7–8km,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-21,W21-SWIM-TT-01,Swim,Time Trial,,1900m,400m progressive,,CSS,CSS:TT,Update CSS,"1,900m incl. WU/CD",Hard controlled effort,"1,900m; include warm-up & cool-down",Hard controlled,CSS:+8-+12,CSS:TT,CSS:+8-+12,
-21,W21-SWIM-AER-02,Swim,Aerobic,,2400m,300m,,CSS,CSS:MIXED,400 @ CSS; last 100 fast,6 x 400m,Last 100 fast,6 x 400m,400 @ CSS; last 100 fast,CSS:+8-+12,CSS:MIXED,CSS:+8-+12,
-21,W21-BIKE-CLMB-04,Bike,Climb Intervals,75min,,15min build,4min between reps,FTP,FTP:1.05-1.15,Climb power,10 x 2min standing,105–115% FTP,10 x 2min standing,105–115% FTP,FTP:0.60-0.70,FTP:1.05-1.15,FTP:0.60-0.70,
-21,W21-BIKE-TT-05,Bike,Time Trial,,50km,15min build,,FTP,FTP:0.80-0.85,Race effort,50km outdoor TT,80–85% FTP,50km TT,80–85% FTP,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70,
-21,W21-RUN-TEMP-07,Run,Tempo,60min,,12min,,RUN_PACE,RUN:MIXED,7:20–7:40 steady; 6:50 hard,4 x (7 steady; 3 hard; 2 easy),Mixed,4 x (7/3/2),Mixed,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC,
-21,W21-RUN-AER-08,Run,Aerobic,,18km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,18km steady,8:00–8:45/mi,18km,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-22,W22-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,15 x 150m,CSS -3 to -5,15 x 150m,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12,
-22,W22-SWIM-AER-02,Swim,Aerobic Ladder,,2100m,300m,,CSS,CSS:0,CSS steady,600–500–400–300–200–100,All @ CSS,600–500–400–300–200–100,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12,
-22,W22-BIKE-THR-04,Bike,Threshold,80min,,15min build,5min between sets,FTP,FTP:0.90-1.00,90–100% FTP,4 x (10 hard; 5 easy),90–100% FTP,4 x (10/5),90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70,
-22,W22-BIKE-AER-05,Bike,Aerobic Long,,110km,15min,,FTP,FTP:0.65-0.75,65–75% FTP,110km undulating,65–75% FTP,110km,65–75% FTP,FTP:0.60-0.70,FTP:0.65-0.75,FTP:0.60-0.70,
-22,W22-RUN-INT-07,Run,Interval,60min,,12min,2–3min,RUN_PACE,RUN:5K,7:00–7:15,8 x 5min,7:00–7:15,8 x 5min,7:00–7:15,RUN:AEROBIC,RUN:5K,RUN:AEROBIC,
-22,W22-RUN-RP-08,Run,Race Pace,,15km,5min,3min,RUN_PACE,RUN:RACE70.3,7:35–7:45,3 x 3km,70.3 pace,3 x 3km,7:35–7:45,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC,
-23,W23-SWIM-INT-01,Swim,Interval,,2700m,400m + drills,30–45s,CSS,MIXED,CSS to hard,Mixed efforts,Controlled,2700m mixed,CSS to hard,CSS:+8-+12,CSS:MIXED,CSS:+8-+12,
-23,W23-SWIM-AER-02,Swim,Aerobic,,2400m,300m,,CSS,CSS:BUILD,Progressive,6 x 400 build,Build,6 x 400,Build,CSS:+8-+12,CSS:BUILD,CSS:+8-+12,
-23,W23-BIKE-CLMB-04,Bike,Climb Intervals,75min,,15min build,2min,FTP,FTP:1.05-1.15,Climb power,10 x 2min,105–115% FTP,10 x 2min,105–115% FTP,FTP:0.60-0.70,FTP:1.05-1.15,FTP:0.60-0.70,
-23,W23-BIKE-RP-05,Bike,Race Pace,,60km,15min,,FTP,FTP:0.80-0.85,Race effort,3 x 12km,80–85% FTP,3 x 12km,80–85% FTP,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70,
-23,W23-BRICK-06,Brick,Race Simulation,,40km + 14km,15min build,Immediate,FTP/RUN,RACE70.3,Race pace,40km + 8km RP + 6km steady,Simulation,40km + 14km,Race pace,RACE70.3,RACE70.3,RACE70.3,
-23,W23-RUN-AER-08,Run,Aerobic,,12km,5min,,RUN_PACE,RUN:AEROBIC,8:00–8:45,12km steady,8:00–8:45,12km,8:00–8:45,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-24,W24-SWIM-RP-02,Swim,Race Pace,,1500–1800m,300m,,CSS,CSS:RACE,Controlled race feel,1500–1800m steady,Race feel,Reduced,Race feel,CSS:+8-+12,CSS:RACE,CSS:+8-+12,
-24,W24-BIKE-THR-04,Bike,Threshold,60min,,12min,5min,FTP,FTP:0.85-0.95,Controlled,2–3 x (8 hard / 5 easy),Controlled,Reduced,Controlled,FTP:0.60-0.70,FTP:0.85-0.95,FTP:0.60-0.70,
-24,W24-BIKE-AER-05,Bike,Aerobic,,50–60km,10min,,FTP,FTP:0.60-0.70,Easy,50–60km steady,Recovery,Reduced,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70,
-24,W24-RUN-TEMP-07,Run,Tempo,40–45min,,10min,,RUN_PACE,RUN:THRESHOLD,Controlled,2 x 6–8min,Controlled,Reduced,Controlled,RUN:AEROBIC,RUN:THRESHOLD,RUN:AEROBIC,
-24,W24-RUN-AER-08,Run,Aerobic,,8–10km,5min,,RUN_PACE,RUN:AEROBIC,Easy,8–10km,Easy,Reduced,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC,
-25,W25-SWIM-INT-01,Swim,Interval,,2200m,400m + drills,30–45s between reps,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 50,CSS -3 to -5,,,,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
-25,W25-SWIM-AER-02,Swim,Aerobic,,1800m,300m,,CSS,CSS:+8-+12,CSS +8–12,"1,800m steady",CSS +8–12,,,,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
-25,W25-BIKE-RP-04,Bike,Race Pace,,75km,15min build,,FTP,FTP:0.80-0.85,80–85% FTP,75km steady w/ 2 x 15km RP,Race effort,,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
-25,W25-BIKE-THR-05,Bike,Threshold,70min,,15min build,4min between reps,FTP,FTP:0.90-1.00,90–100% FTP,3 x 8min,Controlled,,,,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
-25,W25-RUN-RP-07,Run,Race Pace,,14km,10min,3min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 3km RP,Controlled,,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
-25,W25-BRICK-09,Brick,Short Brick,,40km + 6km,15min build,Immediate,FTP/RUN,RACE70.3,80–85%; 7:35–7:45,Short sim,Controlled,,,,RACE70.3,RACE70.3,RACE70.3
-26,W26-SWIM-INT-01,Swim,Interval,,2000m,400m + drills,30s,CSS,CSS:-3--5,CSS -3 to -5,6 x 100; 6 x 50,Sharp,,,,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
-26,W26-SWIM-AER-02,Swim,Aerobic,,1600m,300m,,CSS,CSS:+8-+12,CSS +8–12,"1,600m steady",Aerobic,,,,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
-26,W26-BIKE-RP-04,Bike,Race Pace,,60km,15min build,,FTP,FTP:0.80-0.85,80–85% FTP,60km steady,Race effort,,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
-26,W26-BIKE-INT-05,Bike,Interval,60min,,15min build,3min,FTP,FTP:1.05-1.10,105–110% FTP,5 x 3min,Sharp,,,,FTP:0.60-0.70,FTP:1.05-1.10,FTP:0.60-0.70
-26,W26-RUN-RP-07,Run,Race Pace,,12km,10min,2min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 2km RP,Controlled,,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
-26,W26-RUN-INT-08,Run,Interval,45min,,12min,2min,RUN_PACE,RUN:5K,7:00–7:15,4 x 3min,Sharp,,,,RUN:AEROBIC,RUN:5K,RUN:AEROBIC
-27,W27-SWIM-RP-02,Swim,Race Pace,,1600m,300m,,CSS,CSS:RACE,Race effort,"1,600m steady",Race feel,,,,CSS:+8-+12,CSS:RACE,CSS:+8-+12
-27,W27-BIKE-RP-03,Bike,Race Pace,,50km,15min build,,FTP,FTP:0.80-0.85,80–85% FTP,50km steady,Race effort,,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
-27,W27-RUN-RP-05,Run,Race Pace,,10km,10min,2min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 2km,Race rhythm,,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
-27,W27-BRICK-07,Brick,Short Brick,,30km + 5km,15min build,Immediate,FTP/RUN,RACE70.3,Race pace,Short sharp,Confidence,,,,RACE70.3,RACE70.3,RACE70.3
-27,W27-RACE-SWIM-01,Swim,Openers,,1200m,300m,,CSS,CSS:SHARP,Short bursts,4 x 50,Loose,,,,CSS:+8-+12,CSS:SHARP,CSS:+8-+12
-27,W27-RACE-BIKE-02,Bike,Openers,45min,,10min,,FTP,FTP:0.85-1.00,Short efforts,3 x 2min,Activation,,,,FTP:0.60-0.70,FTP:0.85-1.00,FTP:0.60-0.70
-28,W28-RACE-SWIM-04,Swim,Easy,,1000m,200m,,CSS,CSS:+8,Very relaxed,Short steady,Feel,,,,CSS:+8-+12,CSS:+8,CSS:+8-+12
-28,W28-RACE-BIKE-05,Bike,Easy Spin,30min,,10min,,FTP,FTP:0.60-0.70,Light spin,30min,Loose,,,,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70
-28,W28-RACE-RUN-06,Run,Shakeout,20min,,5min,,RUN_PACE,RUN:RELAXED,Comfortable,20min,Loose,,,,RUN:AEROBIC,RUN:RELAXED,RUN:AEROBIC
+14,W14-SWIM-INT-01,Swim,Interval,,2400m,400m + drills,45s between reps,200m,CSS,CSS:MIXED,300 @ CSS; 200 @ CSS-3; 100 hard,"Total = 2,400m; MS = 3 x 300m; 200m; 100m",300 @ CSS; 200 @ CSS -3; 100 hard controlled,"Total = 2,400m; MS = 3 x 300m; 200m; 100m",CSS:+8-+12,CSS:+8-+12,CSS:MIXED,CSS:+8-+12
+14,W14-SWIM-AER-02,Swim,Aerobic,,1800m,200m,,100m,CSS,CSS:+8-+12,CSS +8–12 per 100,"1,800m steady",CSS +8–12,"1,800m",CSS +8 to +12 sec per 100,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
+14,W14-BIKE-INT-04,Bike,Interval,60min,,15min build,1min between reps,5–10min,FTP,FTP:1.20-1.40,120–140% FTP,Total = 1hr; MS = 12 x 1min full power,120–140% FTP,Total = 1hr; MS = 12 x 1min full power,120–140% FTP,FTP:0.60-0.70,FTP:1.20-1.40,FTP:0.60-0.70
+14,W14-BIKE-AER-05,Bike,Aerobic,,80km,10min,,5–10min,FTP,FTP:0.65-0.75,65–75% FTP,80km steady aerobic,65–75% FTP,80km,65–75% FTP,FTP:0.60-0.70,FTP:0.65-0.75,FTP:0.60-0.70
+14,W14-RUN-TEMP-07,Run,Tempo,60min,,12min,3–4min between reps,5–10min,RUN_PACE,RUN:THRESHOLD,Threshold pace,Total = 1hr; MS = 2 x 12mins,Threshold pace,Total = 1hr; MS = 2 x 12mins,Threshold pace,RUN:AEROBIC,RUN:THRESHOLD,RUN:AEROBIC
+14,W14-RUN-AER-08,Run,Aerobic,,12km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,12km hilly,8:00–8:45/mi,12km hilly,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+15,W15-SWIM-INT-01,Swim,Interval,,2200m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,"Total = 2,200m; MS = 12 x 100m; 6 x 50m",CSS -3 to -5,"Total = 2,200m; MS = 12 x 100m; 6 x 50m",CSS -3 to -5 sec,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+15,W15-SWIM-AER-02,Swim,Aerobic,,2000m,300m,,100m,CSS,CSS:0,CSS steady,4 x 500m,CSS steady,4 x 500m,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12
+15,W15-BIKE-INT-04,Bike,Interval,60min,,15min build,4–5min between reps,5–10min,FTP,FTP:0.95-1.05,95–105% FTP ramp,Total = 1hr; MS = 5 x 5mins ramp,95–105% FTP,Total = 1hr; MS = 5 x 5mins ramp,95–105% FTP,FTP:0.60-0.70,FTP:0.95-1.05,FTP:0.60-0.70
+15,W15-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,5–10min,FTP,FTP:0.80-0.90,80–90% FTP,80km; 2 x 10km hilly,80–90% FTP,Total = 80km; MS = 2 x 10km hilly,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70
+15,W15-RUN-INT-07,Run,Interval,50min,,12min,2min between reps,5–10min,RUN_PACE,RUN:5K,5K pace progressive,50mins; 6 x 3mins,5K → faster,Total = 50mins; 6 x 3mins progressive,5K pace → slightly faster,RUN:AEROBIC,RUN:5K,RUN:AEROBIC
+15,W15-RUN-AER-08,Run,Aerobic,,16km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,16km hilly,8:00–8:45/mi,16km hilly,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+16,W16-SWIM-AER-02,Swim,Aerobic,,1000–1200m,200m,,100m,CSS,CSS:+8-+12,Easy aerobic,1000–1200m steady,CSS +8–12,1000–1200m,CSS +8–12,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
+16,W16-BIKE-INT-04,Bike,Interval,45min,,10min build,1min between reps,5–10min,FTP,FTP:0.90-1.00,Controlled efforts,45min; MS = 6–8 x 1min,Controlled,45min; MS = 6–8 x 1min,Controlled,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
+16,W16-BIKE-AER-05,Bike,Aerobic,,40km,10min,,5–10min,FTP,FTP:0.60-0.70,Recovery aerobic,40km steady,Recovery,40km,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70
+16,W16-RUN-TEMP-07,Run,Tempo,40min,,10min,4min between reps,5–10min,RUN_PACE,RUN:THRESHOLD,Controlled threshold,40min; MS = 2 x 6–8min,Controlled,40min; MS = 2 x 6–8min,Controlled,RUN:AEROBIC,RUN:THRESHOLD,RUN:AEROBIC
+16,W16-RUN-AER-08,Run,Aerobic,,8km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,Easy,8km steady,Easy,8km,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+17,W17-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,3 x 200; 4 x 150; 6 x 100,CSS -3 to -5,"Total = 2,500m; MS = 3 x 200m; 4 x 150m; 6 x 100m",CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+17,W17-SWIM-AER-02,Swim,Aerobic,,2600m,300m,,100m,CSS,CSS:0,CSS steady aerobic,2 x [300; 2 x 500; 2 x 300],CSS steady,2 x [300; 2 x 500; 2 x 300],CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12
+17,W17-BIKE-CLMB-04,Bike,Climb Intervals,70min,,15min build,4min between climbs,5–10min,FTP,FTP:0.90-1.00,Climb strength,4 x 8min steady climb,90–100% FTP,4 x 8min steady climb,90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
+17,W17-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,5–10min,FTP,FTP:0.80-0.90,Sustained effort,3 x 10km undulating,80–90% FTP,3 x 10km undulating,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70
+17,W17-RUN-HILL-07,Run,Hill Intervals,60min,,12min,between ladder sets,5–10min,RUN_PACE,RUN:MIXED,Threshold → 5K,3/2/1 ladder x 6,Progressive,3/2/1 ladder x 6,Progressive,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC
+17,W17-RUN-AER-08,Run,Aerobic,,15km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,15km rolling,8:00–8:45/mi,15km rolling,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+18,W18-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+18,W18-SWIM-AER-02,Swim,Aerobic,,2100m,300m,,100m,CSS,CSS:0,CSS steady,6 x 50; 1500; 6 x 50,CSS steady,6 x 50; 1500; 6 x 50,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12
+18,W18-BIKE-OU-04,Bike,Over/Under,70min,,15min build,recovery between ladders,5–10min,FTP,FTP:0.85-1.05,Wave effort,3/2/1 ladder x 6,85–105% FTP,3/2/1 ladder x 6,85–105% FTP,FTP:0.60-0.70,FTP:0.85-1.05,FTP:0.60-0.70
+18,W18-BIKE-AER-05,Bike,Aerobic Long,,90km,10min,,5–10min,FTP,FTP:0.65-0.75,Endurance,90km undulating,65–75% FTP,90km undulating,65–75% FTP,FTP:0.60-0.70,FTP:0.65-0.75,FTP:0.60-0.70
+18,W18-RUN-TEMP-07,Run,Tempo,60min,,12min,between sets,5–10min,RUN_PACE,RUN:MIXED,Threshold → aerobic,3 x (5 hard / 10 steady),Controlled,3 x (5 hard / 10 steady),Controlled,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC
+18,W18-RUN-AER-08,Run,Aerobic Hills,,12km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,12km + 3 hard hills,8:00–8:45/mi,12km + hills,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+19,W19-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,8 x 100; 4 x 150; 8 x 100,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+19,W19-SWIM-AER-02,Swim,Aerobic,,2000m,300m,,100m,CSS,CSS:0,CSS steady,800; 2 x 400; 4 x 200,CSS steady,800; 2 x 400; 4 x 200,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12
+19,W19-BIKE-CLMB-04,Bike,Climb Intervals,70min,,15min build,4min between climbs,5–10min,FTP,FTP:0.90-1.00,Climb strength,4 x 8min steady climb,90–100% FTP,4 x 8min steady climb,90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
+19,W19-BIKE-TEMP-05,Bike,Tempo Long,,80km,10min,,5–10min,FTP,FTP:0.80-0.90,Sustained,80km; 3 x 12km undulating,80–90% FTP,80km; 3 x 12km undulating,80–90% FTP,FTP:0.60-0.70,FTP:0.80-0.90,FTP:0.60-0.70
+19,W19-RUN-HILL-07,Run,Hill Ladder,60min,,12min,between ladders,5–10min,RUN_PACE,RUN:MIXED,Threshold → 5K,3/2/1 ladder x 6,Progressive,3/2/1 ladder x 6,Progressive,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC
+19,W19-RUN-AER-08,Run,Aerobic,,18km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,18km rolling,8:00–8:45/mi,18km rolling,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+20,W20-SWIM-AER-02,Swim,Aerobic,,1200–1400m,300m,,100m,CSS,CSS:+8-+12,Easy aerobic,1200–1400m steady,CSS +8–12,1200–1400m,CSS +8–12,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
+20,W20-BIKE-OU-04,Bike,Over/Under,45–50min,,12min build,6min recovery,5–10min,FTP,FTP:0.85-0.95,Controlled waves,45–50min; reduced ladders,Controlled,Reduced ladder work,Controlled,FTP:0.60-0.70,FTP:0.85-0.95,FTP:0.60-0.70
+20,W20-BIKE-AER-05,Bike,Aerobic,,45–55km,10min,,5–10min,FTP,FTP:0.60-0.70,Recovery,45–55km steady,Recovery,45–55km,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70
+20,W20-RUN-TEMP-07,Run,Tempo,40–45min,,10min,,5–10min,RUN_PACE,RUN:MIXED,Controlled threshold,2 x (5 hard / 6–8 steady),Controlled,Reduced,Controlled,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC
+20,W20-RUN-AER-08,Run,Aerobic,,7–8km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,Easy,7–8km steady,Easy,7–8km,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+21,W21-SWIM-TT-01,Swim,Time Trial,,1900m,400m progressive,,200m,CSS,CSS:TT,Update CSS,"1,900m incl. WU/CD",Hard controlled effort,"1,900m; include warm-up & cool-down",Hard controlled,CSS:+8-+12,CSS:TT,CSS:+8-+12
+21,W21-SWIM-AER-02,Swim,Aerobic,,2400m,300m,,100m,CSS,CSS:MIXED,400 @ CSS; last 100 fast,6 x 400m,Last 100 fast,6 x 400m,400 @ CSS; last 100 fast,CSS:+8-+12,CSS:MIXED,CSS:+8-+12
+21,W21-BIKE-CLMB-04,Bike,Climb Intervals,75min,,15min build,4min between reps,5–10min,FTP,FTP:1.05-1.15,Climb power,10 x 2min standing,105–115% FTP,10 x 2min standing,105–115% FTP,FTP:0.60-0.70,FTP:1.05-1.15,FTP:0.60-0.70
+21,W21-BIKE-TT-05,Bike,Time Trial,,50km,15min build,,5–10min,FTP,FTP:0.80-0.85,Race effort,50km outdoor TT,80–85% FTP,50km TT,80–85% FTP,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
+21,W21-RUN-TEMP-07,Run,Tempo,60min,,12min,,5–10min,RUN_PACE,RUN:MIXED,7:20–7:40 steady; 6:50 hard,4 x (7 steady; 3 hard; 2 easy),Mixed,4 x (7/3/2),Mixed,RUN:AEROBIC,RUN:MIXED,RUN:AEROBIC
+21,W21-RUN-AER-08,Run,Aerobic,,18km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45/mi,18km steady,8:00–8:45/mi,18km,8:00–8:45/mi,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+22,W22-SWIM-INT-01,Swim,Interval,,2500m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,15 x 150m,CSS -3 to -5,15 x 150m,CSS -3 to -5,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+22,W22-SWIM-AER-02,Swim,Aerobic Ladder,,2100m,300m,,100m,CSS,CSS:0,CSS steady,600–500–400–300–200–100,All @ CSS,600–500–400–300–200–100,CSS steady,CSS:+8-+12,CSS:0,CSS:+8-+12
+22,W22-BIKE-THR-04,Bike,Threshold,80min,,15min build,5min between sets,5–10min,FTP,FTP:0.90-1.00,90–100% FTP,4 x (10 hard; 5 easy),90–100% FTP,4 x (10/5),90–100% FTP,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
+22,W22-BIKE-AER-05,Bike,Aerobic Long,,110km,15min,,5–10min,FTP,FTP:0.65-0.75,65–75% FTP,110km undulating,65–75% FTP,110km,65–75% FTP,FTP:0.60-0.70,FTP:0.65-0.75,FTP:0.60-0.70
+22,W22-RUN-INT-07,Run,Interval,60min,,12min,2–3min,5–10min,RUN_PACE,RUN:5K,7:00–7:15,8 x 5min,7:00–7:15,8 x 5min,7:00–7:15,RUN:AEROBIC,RUN:5K,RUN:AEROBIC
+22,W22-RUN-RP-08,Run,Race Pace,,15km,5min,3min,5–10min,RUN_PACE,RUN:RACE70.3,7:35–7:45,3 x 3km,70.3 pace,3 x 3km,7:35–7:45,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
+23,W23-SWIM-INT-01,Swim,Interval,,2700m,400m + drills,30–45s,200m,CSS,CSS:MIXED,CSS to hard,Mixed efforts,Controlled,2700m mixed,CSS to hard,CSS:+8-+12,CSS:MIXED,CSS:+8-+12
+23,W23-SWIM-AER-02,Swim,Aerobic,,2400m,300m,,100m,CSS,CSS:BUILD,Progressive,6 x 400 build,Build,6 x 400,Build,CSS:+8-+12,CSS:BUILD,CSS:+8-+12
+23,W23-BIKE-CLMB-04,Bike,Climb Intervals,75min,,15min build,2min,5–10min,FTP,FTP:1.05-1.15,Climb power,10 x 2min,105–115% FTP,10 x 2min,105–115% FTP,FTP:0.60-0.70,FTP:1.05-1.15,FTP:0.60-0.70
+23,W23-BIKE-RP-05,Bike,Race Pace,,60km,15min,,5–10min,FTP,FTP:0.80-0.85,Race effort,3 x 12km,80–85% FTP,3 x 12km,80–85% FTP,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
+23,W23-BRICK-06,Brick,Race Simulation,,40km + 14km,15min build,Immediate,5–10min,FTP/RUN,RACE70.3,Race pace,40km + 8km RP + 6km steady,Simulation,40km + 14km,Race pace,RACE70.3,RACE70.3,RACE70.3
+23,W23-RUN-AER-08,Run,Aerobic,,12km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,8:00–8:45,12km steady,8:00–8:45,12km,8:00–8:45,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+24,W24-SWIM-RP-02,Swim,Race Pace,,1500–1800m,300m,,100m,CSS,CSS:RACE,Controlled race feel,1500–1800m steady,Race feel,Reduced,Race feel,CSS:+8-+12,CSS:RACE,CSS:+8-+12
+24,W24-BIKE-THR-04,Bike,Threshold,60min,,12min,5min,5–10min,FTP,FTP:0.85-0.95,Controlled,2–3 x (8 hard / 5 easy),Controlled,Reduced,Controlled,FTP:0.60-0.70,FTP:0.85-0.95,FTP:0.60-0.70
+24,W24-BIKE-AER-05,Bike,Aerobic,,50–60km,10min,,5–10min,FTP,FTP:0.60-0.70,Easy,50–60km steady,Recovery,Reduced,Recovery,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70
+24,W24-RUN-TEMP-07,Run,Tempo,40–45min,,10min,,5–10min,RUN_PACE,RUN:THRESHOLD,Controlled,2 x 6–8min,Controlled,Reduced,Controlled,RUN:AEROBIC,RUN:THRESHOLD,RUN:AEROBIC
+24,W24-RUN-AER-08,Run,Aerobic,,8–10km,5min,,5–10min,RUN_PACE,RUN:AEROBIC,Easy,8–10km,Easy,Reduced,Easy,RUN:AEROBIC,RUN:AEROBIC,RUN:AEROBIC
+25,W25-SWIM-INT-01,Swim,Interval,,2200m,400m + drills,30–45s between reps,200m,CSS,CSS:-3--5,CSS -3 to -5,8 x 100; 4 x 50,CSS -3 to -5,,,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+25,W25-SWIM-AER-02,Swim,Aerobic,,1800m,300m,,100m,CSS,CSS:+8-+12,CSS +8–12,"1,800m steady",CSS +8–12,,,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
+25,W25-BIKE-RP-04,Bike,Race Pace,,75km,15min build,,5–10min,FTP,FTP:0.80-0.85,80–85% FTP,75km steady w/ 2 x 15km RP,Race effort,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
+25,W25-BIKE-THR-05,Bike,Threshold,70min,,15min build,4min between reps,5–10min,FTP,FTP:0.90-1.00,90–100% FTP,3 x 8min,Controlled,,,FTP:0.60-0.70,FTP:0.90-1.00,FTP:0.60-0.70
+25,W25-RUN-RP-07,Run,Race Pace,,14km,10min,3min,5–10min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 3km RP,Controlled,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
+25,W25-BRICK-09,Brick,Short Brick,,40km + 6km,15min build,Immediate,5–10min,FTP/RUN,RACE70.3,80–85%; 7:35–7:45,Short sim,Controlled,,,RACE70.3,RACE70.3,RACE70.3
+26,W26-SWIM-INT-01,Swim,Interval,,2000m,400m + drills,30s,200m,CSS,CSS:-3--5,CSS -3 to -5,6 x 100; 6 x 50,Sharp,,,CSS:+8-+12,CSS:-3--5,CSS:+8-+12
+26,W26-SWIM-AER-02,Swim,Aerobic,,1600m,300m,,100m,CSS,CSS:+8-+12,CSS +8–12,"1,600m steady",Aerobic,,,CSS:+8-+12,CSS:+8-+12,CSS:+8-+12
+26,W26-BIKE-RP-04,Bike,Race Pace,,60km,15min build,,5–10min,FTP,FTP:0.80-0.85,80–85% FTP,60km steady,Race effort,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
+26,W26-BIKE-INT-05,Bike,Interval,60min,,15min build,3min,5–10min,FTP,FTP:1.05-1.10,105–110% FTP,5 x 3min,Sharp,,,FTP:0.60-0.70,FTP:1.05-1.10,FTP:0.60-0.70
+26,W26-RUN-RP-07,Run,Race Pace,,12km,10min,2min,5–10min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 2km RP,Controlled,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
+26,W26-RUN-INT-08,Run,Interval,45min,,12min,2min,5–10min,RUN_PACE,RUN:5K,7:00–7:15,4 x 3min,Sharp,,,RUN:AEROBIC,RUN:5K,RUN:AEROBIC
+27,W27-SWIM-RP-02,Swim,Race Pace,,1600m,300m,,100m,CSS,CSS:RACE,Race effort,"1,600m steady",Race feel,,,CSS:+8-+12,CSS:RACE,CSS:+8-+12
+27,W27-BIKE-RP-03,Bike,Race Pace,,50km,15min build,,5–10min,FTP,FTP:0.80-0.85,80–85% FTP,50km steady,Race effort,,,FTP:0.60-0.70,FTP:0.80-0.85,FTP:0.60-0.70
+27,W27-RUN-RP-05,Run,Race Pace,,10km,10min,2min,5–10min,RUN_PACE,RUN:RACE70.3,7:35–7:45,2 x 2km,Race rhythm,,,RUN:AEROBIC,RUN:RACE70.3,RUN:AEROBIC
+27,W27-BRICK-07,Brick,Short Brick,,30km + 5km,15min build,Immediate,5–10min,FTP/RUN,RACE70.3,Race pace,Short sharp,Confidence,,,RACE70.3,RACE70.3,RACE70.3
+27,W27-RACE-SWIM-01,Swim,Openers,,1200m,300m,,200m,CSS,CSS:SHARP,Short bursts,4 x 50,Loose,,,CSS:+8-+12,CSS:SHARP,CSS:+8-+12
+27,W27-RACE-BIKE-02,Bike,Openers,45min,,10min,,5–10min,FTP,FTP:0.85-1.00,Short efforts,3 x 2min,Activation,,,FTP:0.60-0.70,FTP:0.85-1.00,FTP:0.60-0.70
+28,W28-RACE-SWIM-04,Swim,Easy,,1000m,200m,,100m,CSS,CSS:+8,Very relaxed,Short steady,Feel,,,CSS:+8-+12,CSS:+8,CSS:+8-+12
+28,W28-RACE-BIKE-05,Bike,Easy Spin,30min,,10min,,5–10min,FTP,FTP:0.60-0.70,Light spin,30min,Loose,,,FTP:0.60-0.70,FTP:0.60-0.70,FTP:0.60-0.70
+28,W28-RACE-RUN-06,Run,Shakeout,20min,,5min,,5–10min,RUN_PACE,RUN:RELAXED,Comfortable,20min,Loose,,,RUN:AEROBIC,RUN:RELAXED,RUN:AEROBIC
